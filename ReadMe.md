@@ -14,9 +14,9 @@ Our method introduces:
 
 ---
 
-To train SSGNN on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Chameleon, Squirrel):
-- python main.py --data 0   # Cora
-- python main.py --data 1   # Citeseer
-- python main.py --data 2   # Pubmed
+To train SSGNN on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Actor, Chameleon, Squirrel, Cornell, Texas, Wisconsin) from 0 to 8:
+- python main.py 0   # Cora
+- python main.py 1   # Citeseer
+- python main.py 2   # Pubmed
 - ...
 
