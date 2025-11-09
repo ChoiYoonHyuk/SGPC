@@ -18,6 +18,6 @@ To train SGPC on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Actor, Chamel
 - python main.py 2   # Pubmed
 - ...
 
-## Theoretical proofs
+## Technical Appendix
 
-Proof of theorems in the paper is provided in Proof.pdf
+Proofs of the theorems and technical details are provided in Supplemental.pdf
