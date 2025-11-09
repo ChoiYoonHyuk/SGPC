@@ -1,6 +1,6 @@
 # Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization
 
-## 🧠 Overview
+## Overview
 
 We propose **Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization (SGPC)** — a novel geometric deep learning framework that integrates sheaf theory, PAC-Bayesian regularization, and spectral optimization to achieve robust and generalizable node representations.
 
