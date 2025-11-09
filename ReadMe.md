@@ -10,7 +10,7 @@ Our method introduces:
 - **Spectral Gap Optimization** for stability and expressiveness, and  
 - **SVR-GAT Layers** for efficient semi-supervised learning on graph manifolds.
 
----
+## Execution
 
 To train SSGNN on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Actor, Chameleon, Squirrel, Cornell, Texas, Wisconsin) from 0 to 8:
 - python main.py 0   # Cora
