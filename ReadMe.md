@@ -12,11 +12,12 @@ Our method introduces:
 
 ## Execution
 
-To train SGPC on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Actor, Chameleon, Squirrel, Cornell, Texas, Wisconsin) from 0 to 8:
+To train SGPC on benchmark datasets (e.g., Cora, Citeseer, Pubmed, Chameleon, Squirrel, Actor, Cornell, Texas, Wisconsin) from 0 to 8:
 - python main.py 0   # Cora
 - python main.py 1   # Citeseer
 - python main.py 2   # Pubmed
 - ...
+- python main.py 8   # Wisconsin
 
 ## Technical Appendix
 
