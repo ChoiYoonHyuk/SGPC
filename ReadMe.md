@@ -1,6 +1,6 @@
 # Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization
 
-<img width="4013" height="767" alt="Image" src="https://github.com/user-attachments/assets/45fbb905-3a5d-4d02-b7e4-b969b8b072d9" />
+<img width="1824" height="349" alt="Image" src="https://github.com/user-attachments/assets/07c06121-c0c4-44c8-953f-1eabd4af5ec8" />
 
 ## Overview
 
